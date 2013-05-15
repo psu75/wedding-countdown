@@ -3,7 +3,7 @@ wedding-countdown
 
 Pebble Watchface with real-time countdown to wedding date and time.
 
-Inception and designed by Kyle Barry Burnett. 
+Inception and designed by Kyle Barry Burnett. Congratulations, Kyle and Carly!
 
 This watchface shows real-time interval of days, hours, minutes, and seconds. Shows the time in a bottom banner
 
