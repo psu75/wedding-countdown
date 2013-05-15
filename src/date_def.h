@@ -9,8 +9,6 @@ typedef struct {
     int year;
 } s_date;
 
-extern char * HOLIDAYS[];
-
 int diffdays(s_date d1, s_date d2);
 
 int factor(s_date date);
