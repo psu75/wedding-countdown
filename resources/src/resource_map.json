@@ -1,0 +1,50 @@
+
+{"friendlyVersion": "VERSION",
+ "versionDefName": "APP_RESOURCES",
+ "media": [
+        {
+        "type": "png",
+        "defName": "IMAGE_MENU_ICON",
+        "file": "images/menu_icon_wedding.png"
+        },
+
+	{
+        "type": "png",
+        "defName": "IMAGE_HEARTS",
+        "file": "images/hearts.png"
+        },
+
+	{
+        "type": "png",
+        "defName": "IMAGE_COUPLE",
+        "file": "images/couple.png"
+        },
+	
+	{
+        "type": "font",
+        "defName": "FONT_SF_ARCH_RIVAL_14",
+        "file": "fonts/SF_Arch_Rival.ttf"
+        },
+
+	{
+        "type": "font",
+        "defName": "FONT_SF_ARCH_RIVAL_16",
+        "file": "fonts/SF_Arch_Rival.ttf"
+        },
+	
+
+        {
+        "type": "font",
+        "defName": "FONT_SF_ARCH_RIVAL_18",
+        "file": "fonts/SF_Arch_Rival.ttf"
+        },
+
+        {
+        "type": "font",
+        "defName": "FONT_SF_ARCH_RIVAL_18_BOLD",
+        "file": "fonts/SF_Arch_Rival_Extended_Bold.ttf"
+        }
+
+
+ ]
+}
