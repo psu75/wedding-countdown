@@ -15,4 +15,4 @@ In order to use for your own countdown, you'll need to change the following and 
 
 You could use this to countdown for any event; just change the verbiage accordingly.
 
-With version 1.0, the event time must be at the top of the hour. I'll eventually address up to the excat hour and minute.
+With version 1.0, the event time must be at the top of the hour. I did it this way for performance but, I'll eventually address up to the exact minute.
