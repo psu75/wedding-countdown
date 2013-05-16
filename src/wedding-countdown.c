@@ -78,7 +78,6 @@ void update_text()
     text_layer_set_font(&text_line7_layer, font_tiny);
     text_layer_set_text_alignment(&text_line7_layer,GTextAlignmentCenter);
     layer_set_frame(&text_line7_layer.layer, GRect(2, 128, 144-2, 168-128));
-    text_layer_set_text(&text_line7_layer, line7_text);
     
     text_layer_set_text(&text_line1_layer, line1_text);
     text_layer_set_text(&text_line2_layer, days_text);
