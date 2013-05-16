@@ -175,14 +175,14 @@ void handle_init(AppContextRef ctx)
     text_layer_init(&text_line7_layer, window.layer.frame);
     text_layer_set_text_color(&text_line7_layer, GColorWhite);
     text_layer_set_background_color(&text_line7_layer, GColorClear);
-    layer_set_frame(&text_line7_layer.layer, GRect(2, 128, 144-2, 168-130));
+    layer_set_frame(&text_line7_layer.layer, GRect(2, 128, 144-2, 168-128));
     text_layer_set_font(&text_line7_layer, font_small);
     layer_add_child(&window.layer, &text_line7_layer.layer);
     
     text_layer_init(&text_time_layer, window.layer.frame);
     text_layer_set_text_color(&text_time_layer, GColorBlack);
     text_layer_set_background_color(&text_time_layer, GColorWhite);
-    layer_set_frame(&text_time_layer.layer, GRect(2, 150, 144-2, 168));
+    layer_set_frame(&text_time_layer.layer, GRect(2, 150, 144-2, 150));
     text_layer_set_font(&text_time_layer, font_small);
     text_layer_set_text_alignment(&text_time_layer,GTextAlignmentCenter);
     layer_add_child(&window.layer, &text_time_layer.layer);
